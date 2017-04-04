@@ -10,6 +10,9 @@ namespace CSharpSharpGt
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("c# gt test");
+            Console.ReadKey();
         }
     }
 }
